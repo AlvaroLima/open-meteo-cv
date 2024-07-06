@@ -6,7 +6,7 @@ Head over to https://open-meteo.com! Stay up to date with our blog at https://op
 
 ---
 
-This repository provides historical weather data from 11 localities in Cabo Verde, all the way back from 1940 to 2024.
+This repository provides historical weather data from 11 localities in Cabo Verde, all the way back from 1940 to 2024. Each csv file provides temperature and rain data from a specific locality in Cabo Verde
 
 ## Data Sources
 The Historical Weather API is based on reanalysis datasets and uses a combination of weather station, aircraft, buoy, radar, and satellite observations to create a comprehensive record of past weather conditions. These datasets are able to fill in gaps by using mathematical models to estimate the values of various weather variables. As a result, reanalysis datasets are able to provide detailed historical weather information for locations that may not have had weather stations nearby, such as rural areas or the open ocean.
